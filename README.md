@@ -1,6 +1,8 @@
 # Estrutura-de-decisao-em-C
 Estutura de decisão utilizando C no curso técnico de informática do Instituto Federal Catarinense campus São Bento do Sul, realizado em 25 de ago. de 2025
 
+atividade proposta:
+
 1) Ler dois valores numéricos inteiros e efetuar a adição; caso o resultado seja maior que 10, apresentá-lo na tela.
 
 2) Ler dois números e efetuar a adição. Caso o valor somado seja maior que 20, este deverá ser apresentado subtraindo-se 5.
